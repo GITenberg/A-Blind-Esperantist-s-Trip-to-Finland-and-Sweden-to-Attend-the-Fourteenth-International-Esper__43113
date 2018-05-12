@@ -11,6 +11,8 @@ creator:
     gutenberg_agent_id: '42026'
     url: http://www.gutenberg.org/2009/agents/42026
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/43113#A-Blind-Esperantist-s-Trip-to-Finland-and-Sweden-to-Attend-the-Fourteenth-International-Esper_
 gutenberg_bookshelf: Esperanto
 gutenberg_issued: '2013-07-07'
 gutenberg_type: Text
