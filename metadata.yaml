@@ -1,0 +1,28 @@
+_repo: A-Blind-Esperantist-s-Trip-to-Finland-and-Sweden-to-Attend-the-Fourteenth-International-Esper__43113
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 43113-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Merrick, W. Percy
+    alias: Merrick, W. P. (W. Percy)
+    birthdate: 1868
+    gutenberg_agent_id: '42026'
+    url: http://www.gutenberg.org/2009/agents/42026
+description: ''
+gutenberg_bookshelf: Esperanto
+gutenberg_issued: '2013-07-07'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '43113'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Esperanto -- Congresses'
+- !lcc 'PM'
+title: A Blind Esperantist's Trip to Finland and Sweden, to Attend the Fourteenth
+  International Esperanto Congress
+url: http://www.gutenberg.org/ebooks/43113
